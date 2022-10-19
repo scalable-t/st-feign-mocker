@@ -37,4 +37,4 @@
   - 模拟接收超时
 - 界面化配置 Mock 规则
 - 将规则持久化
-  - 预计使用 $HOME/.config/st-feign-mocker/${spring.application.name}.h2
+  - 预计使用 `$HOME/.config/st-feign-mocker/${spring.application.name}.h2`
